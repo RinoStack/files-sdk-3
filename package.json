@@ -1,0 +1,8 @@
+{
+  "name": "files-sdk",
+  "version": "1.0.0",
+  "description": "Unified storage SDK",
+  "main": "src/index.ts",
+    "build": "tsc"
+    "typescript": "^5.0.0"
+}
